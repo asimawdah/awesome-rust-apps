@@ -43,6 +43,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [sccache](https://github.com/mozilla/sccache) - A compiler cache that avoids unnecessary rebuilds and supports local and remote storage backends.
 
+- [Taplo](https://github.com/tamasfe/taplo) - A TOML toolkit providing formatting, validation, and language-server features.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
