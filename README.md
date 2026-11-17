@@ -173,6 +173,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 ## Graphics, Media & Games
 
+- [Graphite](https://github.com/GraphiteEditor/Graphite) - A node-based 2D graphics editor for vector design, digital art, and procedural motion graphics.
+
 ## Self-Hosted Services & Infrastructure
 
 ## Runtimes, Documentation & Publishing
