@@ -113,6 +113,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 ## Desktop & System Applications
 
+- [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform desktop client for managing Mihomo (Clash Meta) proxy configurations.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
