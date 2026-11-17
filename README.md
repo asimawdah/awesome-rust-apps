@@ -25,6 +25,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Helix](https://github.com/helix-editor/helix) - A post-modern modal text editor with built-in language-server support.
 
+- [Jujutsu (jj)](https://github.com/jj-vcs/jj) - A Git-compatible version control system designed to make working with code history simpler.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
