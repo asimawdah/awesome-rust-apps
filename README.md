@@ -21,6 +21,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [git-cliff](https://github.com/orhun/git-cliff) - A highly configurable changelog generator that follows Conventional Commits.
 
+- [GitUI](https://github.com/gitui-org/gitui) - A fast terminal user interface for working with Git repositories.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
