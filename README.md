@@ -181,6 +181,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [PhotoCraft](https://github.com/storytold/photocraft) - An open-source photo editor written from scratch in Rust.
 
+- [Soufflé](https://github.com/damione1/souffle) - A private, on-device meeting transcription and dictation app with local speech recognition and summaries.
+
 ## Self-Hosted Services & Infrastructure
 
 ## Runtimes, Documentation & Publishing
