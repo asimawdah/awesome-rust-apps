@@ -65,6 +65,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for Git diffs, grep results, and other structured text output.
 
+- [dust](https://github.com/bootandy/dust) - A more intuitive command-line disk usage tool and alternative to du.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
