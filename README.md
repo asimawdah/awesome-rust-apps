@@ -143,6 +143,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [MDowser](https://github.com/MDowser/MDowser) - A lightweight, cross-platform browser for Markdown websites and local Markdown files, rendered natively.
 
+- [Mullvad VPN](https://github.com/mullvad/mullvadvpn-app) - The open-source desktop and mobile VPN client for the Mullvad privacy-focused VPN service.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
