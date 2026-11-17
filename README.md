@@ -131,6 +131,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - A cross-platform clipboard manager for collecting and organizing copied content.
 
+- [Espanso](https://github.com/espanso/espanso) - A privacy-first, cross-platform text expander that replaces typed abbreviations with snippets.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
