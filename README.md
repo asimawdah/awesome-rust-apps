@@ -27,6 +27,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Jujutsu (jj)](https://github.com/jj-vcs/jj) - A Git-compatible version control system designed to make working with code history simpler.
 
+- [Lapce](https://github.com/lapce/lapce) - A lightweight, high-performance code editor written in Rust.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
