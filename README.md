@@ -51,6 +51,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 ## Terminals, Shells & CLI Utilities
 
+- [Alacritty](https://github.com/alacritty/alacritty) - A fast, cross-platform, OpenGL-accelerated terminal emulator.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
