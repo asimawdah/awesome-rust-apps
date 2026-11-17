@@ -213,6 +213,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 ## Runtimes, Documentation & Publishing
 
+- [Deno](https://github.com/denoland/deno) - A secure runtime for JavaScript and TypeScript with built-in tooling for development and deployment.
+
 ## Contributing
 
 Contributions are welcome! Please submit applications that are publicly available, use Rust as a core implementation language, and are released under an open-source license. Add a concise description and place each project in the most relevant category. Libraries, frameworks, and starter templates belong in separate lists.
