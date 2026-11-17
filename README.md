@@ -77,6 +77,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer with colored output and a clear byte layout.
 
+- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool for measuring and comparing command execution times.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
