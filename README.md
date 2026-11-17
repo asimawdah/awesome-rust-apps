@@ -31,6 +31,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [mise](https://github.com/jdx/mise) - A developer tool for managing runtimes, environment variables, and project tasks.
 
+- [Nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust projects, designed for fast and reliable test execution.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
