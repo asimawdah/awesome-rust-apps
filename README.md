@@ -201,6 +201,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [RustDesk Server](https://github.com/rustdesk/rustdesk-server) - The self-hosted server component for RustDesk remote desktop connectivity.
 
+- [RustFS](https://github.com/rustfs/rustfs) - A high-performance, S3-compatible object storage system implemented in Rust.
+
 ## Runtimes, Documentation & Publishing
 
 ## Contributing
