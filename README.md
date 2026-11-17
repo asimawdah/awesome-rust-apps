@@ -129,6 +129,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [EasyTier](https://github.com/EasyTier/EasyTier) - A decentralized mesh VPN with WireGuard support for connecting devices across networks.
 
+- [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - A cross-platform clipboard manager for collecting and organizing copied content.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
