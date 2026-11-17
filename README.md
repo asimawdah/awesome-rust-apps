@@ -117,6 +117,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [kondo](https://github.com/tbillington/kondo) - A project-cleanup utility that removes build artifacts and dependency directories to reclaim disk space.
 
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for discovering and running command-line snippets.
+
 ## Desktop & System Applications
 
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform desktop client for managing Mihomo (Clash Meta) proxy configurations.
