@@ -113,6 +113,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [jless](https://github.com/PaulJuliusMartinez/jless) - A command-line JSON viewer for browsing, searching, and inspecting structured JSON data.
 
+- [joshuto](https://github.com/kamiyaa/joshuto) - A terminal file manager inspired by ranger, with a keyboard-driven workflow.
+
 ## Desktop & System Applications
 
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform desktop client for managing Mihomo (Clash Meta) proxy configurations.
