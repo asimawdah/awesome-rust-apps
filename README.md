@@ -195,6 +195,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Lemmy](https://github.com/LemmyNet/lemmy) - A federated, self-hostable discussion platform for creating and participating in communities.
 
+- [Quickwit](https://github.com/quickwit-oss/quickwit) - A cloud-native, open-source search engine designed for observability data and large-scale log search.
+
 ## Runtimes, Documentation & Publishing
 
 ## Contributing
