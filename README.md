@@ -71,6 +71,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [eza](https://github.com/eza-community/eza) - A modern, feature-rich alternative to ls with colors, icons, and Git integration.
 
+- [fd](https://github.com/sharkdp/fd) - A simple, fast, and user-friendly command-line alternative to find.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
