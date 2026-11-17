@@ -95,6 +95,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [RustScan](https://github.com/bee-san/RustScan) - A modern port scanner designed to discover open ports quickly and pass results to other tools.
 
+- [sd](https://github.com/chmln/sd) - An intuitive command-line find-and-replace tool and alternative to sed.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
