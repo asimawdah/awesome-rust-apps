@@ -243,6 +243,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Wasmer](https://github.com/wasmerio/wasmer) - A WebAssembly runtime and sandbox for running portable applications and workloads.
 
+- [Zola](https://github.com/getzola/zola) - A fast static site generator that builds websites from Markdown content into a single deployable output.
+
 ## Contributing
 
 Contributions are welcome! Please submit applications that are publicly available, use Rust as a core implementation language, and are released under an open-source license. Add a concise description and place each project in the most relevant category. Libraries, frameworks, and starter templates belong in separate lists.
