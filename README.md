@@ -203,6 +203,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [RustFS](https://github.com/rustfs/rustfs) - A high-performance, S3-compatible object storage system implemented in Rust.
 
+- [TiKV](https://github.com/tikv/tikv) - A distributed transactional key-value database designed for cloud-native workloads.
+
 ## Runtimes, Documentation & Publishing
 
 ## Contributing
