@@ -125,6 +125,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Day-Monitor](https://github.com/Defiabell/day-monitor) - A privacy-aware macOS menu-bar app that tracks work activity and creates timelines, trends, and AI summaries.
 
+- [Discky](https://github.com/discky-app/discky) - A macOS disk-cleanup app for finding and removing caches, app data, and development leftovers.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
