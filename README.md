@@ -187,6 +187,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Garage](https://github.com/deuxfleurs-org/garage) - A self-hosted, geo-distributed object store that exposes an S3-compatible API.
 
+- [GreptimeDB](https://github.com/GreptimeTeam/greptimedb) - An observability database for storing and querying metrics, logs, and traces.
+
 ## Runtimes, Documentation & Publishing
 
 ## Contributing
