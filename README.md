@@ -121,6 +121,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [COSMIC Store](https://github.com/pop-os/cosmic-store) - The application store for the COSMIC desktop environment.
 
+- [COSMIC Terminal](https://github.com/pop-os/cosmic-term) - A terminal emulator built for the COSMIC desktop environment.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
