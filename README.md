@@ -53,6 +53,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Alacritty](https://github.com/alacritty/alacritty) - A fast, cross-platform, OpenGL-accelerated terminal emulator.
 
+- [Atuin](https://github.com/atuinsh/atuin) - A shell history manager with searchable history and optional encrypted sync.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
