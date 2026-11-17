@@ -17,6 +17,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Bacon](https://github.com/Canop/bacon) - A background code checker for Rust projects, with terminal-based diagnostics and continuous checking.
 
+- [dprint](https://github.com/dprint/dprint) - A pluggable code formatting platform that unifies multiple formatters in one fast, configurable tool.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
