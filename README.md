@@ -45,6 +45,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Taplo](https://github.com/tamasfe/taplo) - A TOML toolkit providing formatting, validation, and language-server features.
 
+- [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager implemented in Rust.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
