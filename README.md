@@ -97,6 +97,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [sd](https://github.com/chmln/sd) - An intuitive command-line find-and-replace tool and alternative to sed.
 
+- [Starship](https://github.com/starship/starship) - A fast, customizable prompt for many popular shells.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
