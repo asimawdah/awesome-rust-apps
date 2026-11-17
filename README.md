@@ -117,6 +117,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [COSMIC Files](https://github.com/pop-os/cosmic-files) - The Rust-based file manager for the COSMIC desktop environment.
 
+- [COSMIC Settings](https://github.com/pop-os/cosmic-settings) - The system settings application for the COSMIC desktop environment.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
