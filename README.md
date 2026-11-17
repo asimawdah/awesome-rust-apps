@@ -55,6 +55,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Atuin](https://github.com/atuinsh/atuin) - A shell history manager with searchable history and optional encrypted sync.
 
+- [bandwhich](https://github.com/imsnif/bandwhich) - A terminal bandwidth monitor that shows network usage by process and connection.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
