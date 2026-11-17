@@ -115,6 +115,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform desktop client for managing Mihomo (Clash Meta) proxy configurations.
 
+- [COSMIC Files](https://github.com/pop-os/cosmic-files) - The Rust-based file manager for the COSMIC desktop environment.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
