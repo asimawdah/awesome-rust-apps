@@ -129,6 +129,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Termusic](https://github.com/tramhao/termusic) - A terminal-based music player written in Rust.
 
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command that learns your directory usage and works with popular shells.
+
 ## Desktop & System Applications
 
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform desktop client for managing Mihomo (Clash Meta) proxy configurations.
