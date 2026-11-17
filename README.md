@@ -89,6 +89,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps with readable output and additional process information.
 
+- [Pueue](https://github.com/Nukesor/pueue) - A command-line task manager for scheduling, queuing, and controlling shell commands.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
