@@ -177,6 +177,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Gridvana](https://github.com/osdodo/gridvana) - A collaborative pixel-art and animation editor where people and AI agents can create together.
 
+- [Lap](https://github.com/julyx10/lap) - An offline-first photo manager for organizing large local image libraries.
+
 ## Self-Hosted Services & Infrastructure
 
 ## Runtimes, Documentation & Publishing
