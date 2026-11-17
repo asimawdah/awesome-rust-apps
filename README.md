@@ -141,6 +141,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Lokii](https://github.com/huangy7/lokii) - A native macOS file-search application designed for fast, system-wide local search.
 
+- [MDowser](https://github.com/MDowser/MDowser) - A lightweight, cross-platform browser for Markdown websites and local Markdown files, rendered natively.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
