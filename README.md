@@ -75,6 +75,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [gping](https://github.com/orf/gping) - A ping utility that displays latency as a live graph in the terminal.
 
+- [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer with colored output and a clear byte layout.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
