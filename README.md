@@ -85,6 +85,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [oha](https://github.com/hatoo/oha) - An HTTP load generator with a live terminal interface for visualizing request performance.
 
+- [onefetch](https://github.com/o2sh/onefetch) - A command-line tool that displays Git repository information and language statistics.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
