@@ -81,6 +81,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [just](https://github.com/casey/just) - A handy command runner for project-specific recipes and automation.
 
+- [Nushell](https://github.com/nushell/nushell) - A modern shell with structured data, pipelines, and a consistent command-line experience.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
