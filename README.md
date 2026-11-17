@@ -19,6 +19,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [dprint](https://github.com/dprint/dprint) - A pluggable code formatting platform that unifies multiple formatters in one fast, configurable tool.
 
+- [git-cliff](https://github.com/orhun/git-cliff) - A highly configurable changelog generator that follows Conventional Commits.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
