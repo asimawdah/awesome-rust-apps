@@ -107,6 +107,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [xh](https://github.com/ducaale/xh) - A friendly and fast command-line HTTP client for sending requests and inspecting responses.
 
+- [Yazi](https://github.com/sxyazi/yazi) - A fast terminal file manager built around asynchronous I/O.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
