@@ -37,6 +37,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter implemented in Rust.
 
+- [Rustman](https://github.com/rust-man-org/rustman) - A free, open-source desktop application for testing APIs, with no account, cloud service, or telemetry required.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
