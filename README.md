@@ -101,6 +101,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [tealdeer](https://github.com/tealdeer-rs/tealdeer) - A fast command-line client for tldr pages and practical command examples.
 
+- [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator for desktop and browser environments.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
