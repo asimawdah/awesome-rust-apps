@@ -115,6 +115,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [joshuto](https://github.com/kamiyaa/joshuto) - A terminal file manager inspired by ranger, with a keyboard-driven workflow.
 
+- [kondo](https://github.com/tbillington/kondo) - A project-cleanup utility that removes build artifacts and dependency directories to reclaim disk space.
+
 ## Desktop & System Applications
 
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform desktop client for managing Mihomo (Clash Meta) proxy configurations.
