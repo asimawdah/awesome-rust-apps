@@ -119,6 +119,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [COSMIC Settings](https://github.com/pop-os/cosmic-settings) - The system settings application for the COSMIC desktop environment.
 
+- [COSMIC Store](https://github.com/pop-os/cosmic-store) - The application store for the COSMIC desktop environment.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
