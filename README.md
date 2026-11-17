@@ -61,6 +61,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [bottom](https://github.com/ClementTsang/bottom) - A cross-platform terminal system and process monitor with a graphical interface.
 
+- [broot](https://github.com/Canop/broot) - A terminal file manager and directory navigator with fuzzy search and interactive filtering.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
