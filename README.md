@@ -169,6 +169,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [KnotQ](https://github.com/knotq-app/knotq-app) - A local-first planner that combines structured notes with an integrated calendar.
 
+- [Rnote](https://github.com/flxzt/rnote) - An open-source sketching and handwritten note-taking application.
+
 ## Graphics, Media & Games
 
 ## Self-Hosted Services & Infrastructure
