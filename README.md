@@ -167,6 +167,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Halloy](https://github.com/squidowl/halloy) - An open-source IRC client written in Rust with a modern desktop interface.
 
+- [KnotQ](https://github.com/knotq-app/knotq-app) - A local-first planner that combines structured notes with an integrated calendar.
+
 ## Graphics, Media & Games
 
 ## Self-Hosted Services & Infrastructure
