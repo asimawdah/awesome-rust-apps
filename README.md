@@ -199,6 +199,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Rauthy](https://github.com/sebadob/rauthy) - An open-source identity and access management service supporting OpenID Connect, OAuth 2.0, and PAM.
 
+- [RustDesk Server](https://github.com/rustdesk/rustdesk-server) - The self-hosted server component for RustDesk remote desktop connectivity.
+
 ## Runtimes, Documentation & Publishing
 
 ## Contributing
