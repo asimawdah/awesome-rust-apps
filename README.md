@@ -149,6 +149,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [OpenTypeless](https://github.com/tover0314-w/opentypeless) - An open-source, cross-platform AI voice-typing application for macOS, Windows, and Linux.
 
+- [RustDesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application with cross-platform clients and self-hosting support.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
