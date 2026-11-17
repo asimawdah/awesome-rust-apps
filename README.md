@@ -41,6 +41,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [rustup](https://github.com/rust-lang/rustup) - The official Rust toolchain installer and manager for installing and updating Rust toolchains.
 
+- [sccache](https://github.com/mozilla/sccache) - A compiler cache that avoids unnecessary rebuilds and supports local and remote storage backends.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
