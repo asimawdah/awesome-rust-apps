@@ -29,6 +29,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Lapce](https://github.com/lapce/lapce) - A lightweight, high-performance code editor written in Rust.
 
+- [mise](https://github.com/jdx/mise) - A developer tool for managing runtimes, environment variables, and project tasks.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
