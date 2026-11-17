@@ -123,6 +123,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [systeroid](https://github.com/orhun/systeroid) - A powerful alternative to sysctl with an interactive terminal interface for managing kernel parameters.
 
+- [Spotify Player](https://github.com/aome510/spotify-player) - A feature-rich Spotify client that runs in the terminal.
+
 ## Desktop & System Applications
 
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform desktop client for managing Mihomo (Clash Meta) proxy configurations.
