@@ -57,6 +57,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [bandwhich](https://github.com/imsnif/bandwhich) - A terminal bandwidth monitor that shows network usage by process and connection.
 
+- [bat](https://github.com/sharkdp/bat) - A cat alternative with syntax highlighting, Git integration, and paging support.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
