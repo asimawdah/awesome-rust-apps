@@ -91,6 +91,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Pueue](https://github.com/Nukesor/pueue) - A command-line task manager for scheduling, queuing, and controlling shell commands.
 
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - A fast recursive search tool that respects Git ignore rules and supports regular expressions.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
