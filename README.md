@@ -105,6 +105,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool for exploring routes, latency, and packet loss.
 
+- [xh](https://github.com/ducaale/xh) - A friendly and fast command-line HTTP client for sending requests and inspecting responses.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
