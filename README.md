@@ -111,6 +111,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Zellij](https://github.com/zellij-org/zellij) - A terminal workspace and multiplexer with panes, tabs, and built-in layouts.
 
+- [jless](https://github.com/PaulJuliusMartinez/jless) - A command-line JSON viewer for browsing, searching, and inspecting structured JSON data.
+
 ## Desktop & System Applications
 
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform desktop client for managing Mihomo (Clash Meta) proxy configurations.
