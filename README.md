@@ -197,6 +197,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Quickwit](https://github.com/quickwit-oss/quickwit) - A cloud-native, open-source search engine designed for observability data and large-scale log search.
 
+- [Rauthy](https://github.com/sebadob/rauthy) - An open-source identity and access management service supporting OpenID Connect, OAuth 2.0, and PAM.
+
 ## Runtimes, Documentation & Publishing
 
 ## Contributing
