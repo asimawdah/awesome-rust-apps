@@ -207,6 +207,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [RisingWave](https://github.com/risingwavelabs/risingwave) - An open-source streaming database for ingesting, transforming, and serving real-time event data.
 
+- [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - A lightweight, self-hosted Bitwarden-compatible password manager server.
+
 ## Runtimes, Documentation & Publishing
 
 ## Contributing
