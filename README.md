@@ -69,6 +69,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [dysk](https://github.com/Canop/dysk) - A command-line utility for inspecting mounted filesystems and disk usage.
 
+- [eza](https://github.com/eza-community/eza) - A modern, feature-rich alternative to ls with colors, icons, and Git integration.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
