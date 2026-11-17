@@ -33,6 +33,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust projects, designed for fast and reliable test execution.
 
+- [OpenAI Codex CLI](https://github.com/openai/codex) - A lightweight coding agent that runs in your terminal and can work with a local codebase.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
