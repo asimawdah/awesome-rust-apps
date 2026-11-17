@@ -23,6 +23,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [GitUI](https://github.com/gitui-org/gitui) - A fast terminal user interface for working with Git repositories.
 
+- [Helix](https://github.com/helix-editor/helix) - A post-modern modal text editor with built-in language-server support.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
