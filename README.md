@@ -133,6 +133,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Espanso](https://github.com/espanso/espanso) - A privacy-first, cross-platform text expander that replaces typed abbreviations with snippets.
 
+- [Kiri](https://github.com/yuxino/Kiri) - A cross-platform utility for screenshots, screen recording, and optical character recognition.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
