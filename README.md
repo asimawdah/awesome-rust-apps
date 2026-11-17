@@ -137,6 +137,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Kopi](https://github.com/code-devanshu/kopi) - A privacy-first clipboard manager for macOS and Windows (currently in pre-alpha).
 
+- [LinkUnbound](https://github.com/rgdevment/LinkUnbound) - A browser picker for Windows and macOS that routes links to browser profiles based on site or app.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
