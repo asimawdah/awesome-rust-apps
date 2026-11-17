@@ -179,6 +179,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Lap](https://github.com/julyx10/lap) - An offline-first photo manager for organizing large local image libraries.
 
+- [PhotoCraft](https://github.com/storytold/photocraft) - An open-source photo editor written from scratch in Rust.
+
 ## Self-Hosted Services & Infrastructure
 
 ## Runtimes, Documentation & Publishing
