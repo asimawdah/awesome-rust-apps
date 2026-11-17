@@ -123,6 +123,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [COSMIC Terminal](https://github.com/pop-os/cosmic-term) - A terminal emulator built for the COSMIC desktop environment.
 
+- [Day-Monitor](https://github.com/Defiabell/day-monitor) - A privacy-aware macOS menu-bar app that tracks work activity and creates timelines, trends, and AI summaries.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
