@@ -163,6 +163,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 ## Productivity & Communication
 
+- [Flectar Mail](https://github.com/flectar/mail) - An offline-first email, calendar, and contacts client focused on speed and native performance.
+
 ## Graphics, Media & Games
 
 ## Self-Hosted Services & Infrastructure
