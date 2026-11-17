@@ -127,6 +127,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - A terminal user interface for managing tasks with Taskwarrior.
 
+- [Termusic](https://github.com/tramhao/termusic) - A terminal-based music player written in Rust.
+
 ## Desktop & System Applications
 
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform desktop client for managing Mihomo (Clash Meta) proxy configurations.
