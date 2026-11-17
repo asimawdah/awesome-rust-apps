@@ -147,6 +147,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [OpenLogi](https://github.com/AprilNEA/OpenLogi) - A native Linux alternative to Logitech Options+ for configuring supported Logitech mice and devices.
 
+- [OpenTypeless](https://github.com/tover0314-w/opentypeless) - An open-source, cross-platform AI voice-typing application for macOS, Windows, and Linux.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
