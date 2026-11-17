@@ -59,6 +59,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [bat](https://github.com/sharkdp/bat) - A cat alternative with syntax highlighting, Git integration, and paging support.
 
+- [bottom](https://github.com/ClementTsang/bottom) - A cross-platform terminal system and process monitor with a graphical interface.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
