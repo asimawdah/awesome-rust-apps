@@ -193,6 +193,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Kellnr](https://github.com/kellnr/kellnr) - A self-hosted private registry for Rust crates, with a web interface and package management.
 
+- [Lemmy](https://github.com/LemmyNet/lemmy) - A federated, self-hostable discussion platform for creating and participating in communities.
+
 ## Runtimes, Documentation & Publishing
 
 ## Contributing
