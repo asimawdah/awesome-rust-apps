@@ -39,6 +39,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Rustman](https://github.com/rust-man-org/rustman) - A free, open-source desktop application for testing APIs, with no account, cloud service, or telemetry required.
 
+- [rustup](https://github.com/rust-lang/rustup) - The official Rust toolchain installer and manager for installing and updating Rust toolchains.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
