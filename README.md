@@ -103,6 +103,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator for desktop and browser environments.
 
+- [Trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool for exploring routes, latency, and packet loss.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
