@@ -151,6 +151,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [RustDesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application with cross-platform clients and self-hosting support.
 
+- [Shuffle](https://github.com/WizenPainter/shuffle) - A GPU-rendered macOS file manager designed as an alternative to Finder.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
