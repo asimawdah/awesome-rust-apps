@@ -159,6 +159,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [StoneSVN](https://github.com/firzen/StoneSVN) - An open-source desktop client for reviewing diffs and managing Subversion commits across platforms.
 
+- [FluxDown](https://github.com/zerx-lab/FluxDown) - A multi-protocol download manager supporting HTTP, FTP, BitTorrent, and streaming downloads.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
