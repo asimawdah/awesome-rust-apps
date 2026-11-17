@@ -175,6 +175,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Graphite](https://github.com/GraphiteEditor/Graphite) - A node-based 2D graphics editor for vector design, digital art, and procedural motion graphics.
 
+- [Gridvana](https://github.com/osdodo/gridvana) - A collaborative pixel-art and animation editor where people and AI agents can create together.
+
 ## Self-Hosted Services & Infrastructure
 
 ## Runtimes, Documentation & Publishing
