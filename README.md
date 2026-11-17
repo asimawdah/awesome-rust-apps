@@ -125,6 +125,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Spotify Player](https://github.com/aome510/spotify-player) - A feature-rich Spotify client that runs in the terminal.
 
+- [Taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - A terminal user interface for managing tasks with Taskwarrior.
+
 ## Desktop & System Applications
 
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform desktop client for managing Mihomo (Clash Meta) proxy configurations.
