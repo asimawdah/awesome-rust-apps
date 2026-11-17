@@ -145,6 +145,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Mullvad VPN](https://github.com/mullvad/mullvadvpn-app) - The open-source desktop and mobile VPN client for the Mullvad privacy-focused VPN service.
 
+- [OpenLogi](https://github.com/AprilNEA/OpenLogi) - A native Linux alternative to Logitech Options+ for configuring supported Logitech mice and devices.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
