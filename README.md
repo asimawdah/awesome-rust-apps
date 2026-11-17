@@ -135,6 +135,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Kiri](https://github.com/yuxino/Kiri) - A cross-platform utility for screenshots, screen recording, and optical character recognition.
 
+- [Kopi](https://github.com/code-devanshu/kopi) - A privacy-first clipboard manager for macOS and Windows (currently in pre-alpha).
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
