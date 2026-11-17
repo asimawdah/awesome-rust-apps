@@ -155,6 +155,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Sniffnet](https://github.com/GyulyVGC/sniffnet) - A cross-platform application for comfortably monitoring network traffic and connections.
 
+- [Spacedrive](https://github.com/spacedriveapp/spacedrive) - A cross-platform file explorer powered by a virtual distributed filesystem written in Rust.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
