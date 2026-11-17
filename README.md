@@ -185,6 +185,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 ## Self-Hosted Services & Infrastructure
 
+- [Garage](https://github.com/deuxfleurs-org/garage) - A self-hosted, geo-distributed object store that exposes an S3-compatible API.
+
 ## Runtimes, Documentation & Publishing
 
 ## Contributing
