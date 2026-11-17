@@ -157,6 +157,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - A cross-platform file explorer powered by a virtual distributed filesystem written in Rust.
 
+- [StoneSVN](https://github.com/firzen/StoneSVN) - An open-source desktop client for reviewing diffs and managing Subversion commits across platforms.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
