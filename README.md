@@ -205,6 +205,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [TiKV](https://github.com/tikv/tikv) - A distributed transactional key-value database designed for cloud-native workloads.
 
+- [RisingWave](https://github.com/risingwavelabs/risingwave) - An open-source streaming database for ingesting, transforming, and serving real-time event data.
+
 ## Runtimes, Documentation & Publishing
 
 ## Contributing
