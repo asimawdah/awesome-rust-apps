@@ -63,6 +63,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [broot](https://github.com/Canop/broot) - A terminal file manager and directory navigator with fuzzy search and interactive filtering.
 
+- [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for Git diffs, grep results, and other structured text output.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
