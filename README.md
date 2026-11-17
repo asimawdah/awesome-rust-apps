@@ -93,6 +93,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - A fast recursive search tool that respects Git ignore rules and supports regular expressions.
 
+- [RustScan](https://github.com/bee-san/RustScan) - A modern port scanner designed to discover open ports quickly and pass results to other tools.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
