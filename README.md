@@ -67,6 +67,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [dust](https://github.com/bootandy/dust) - A more intuitive command-line disk usage tool and alternative to du.
 
+- [dysk](https://github.com/Canop/dysk) - A command-line utility for inspecting mounted filesystems and disk usage.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
