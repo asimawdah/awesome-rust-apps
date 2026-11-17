@@ -153,6 +153,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Shuffle](https://github.com/WizenPainter/shuffle) - A GPU-rendered macOS file manager designed as an alternative to Finder.
 
+- [Sniffnet](https://github.com/GyulyVGC/sniffnet) - A cross-platform application for comfortably monitoring network traffic and connections.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
