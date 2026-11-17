@@ -119,6 +119,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for discovering and running command-line snippets.
 
+- [ncspot](https://github.com/hrkfdn/ncspot) - A cross-platform terminal Spotify client with a keyboard-driven interface.
+
 ## Desktop & System Applications
 
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform desktop client for managing Mihomo (Clash Meta) proxy configurations.
