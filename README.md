@@ -165,6 +165,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Flectar Mail](https://github.com/flectar/mail) - An offline-first email, calendar, and contacts client focused on speed and native performance.
 
+- [Halloy](https://github.com/squidowl/halloy) - An open-source IRC client written in Rust with a modern desktop interface.
+
 ## Graphics, Media & Games
 
 ## Self-Hosted Services & Infrastructure
