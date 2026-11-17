@@ -35,6 +35,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [OpenAI Codex CLI](https://github.com/openai/codex) - A lightweight coding agent that runs in your terminal and can work with a local codebase.
 
+- [Ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter implemented in Rust.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
