@@ -127,6 +127,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Discky](https://github.com/discky-app/discky) - A macOS disk-cleanup app for finding and removing caches, app data, and development leftovers.
 
+- [EasyTier](https://github.com/EasyTier/EasyTier) - A decentralized mesh VPN with WireGuard support for connecting devices across networks.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
