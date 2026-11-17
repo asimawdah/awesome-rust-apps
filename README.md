@@ -47,6 +47,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager implemented in Rust.
 
+- [Watchexec](https://github.com/watchexec/watchexec) - A tool that runs commands automatically when files change.
+
 ## Terminals, Shells & CLI Utilities
 
 ## Desktop & System Applications
