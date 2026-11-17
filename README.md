@@ -209,6 +209,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - A lightweight, self-hosted Bitwarden-compatible password manager server.
 
+- [Vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline for collecting, transforming, and routing logs and metrics.
+
 ## Runtimes, Documentation & Publishing
 
 ## Contributing
