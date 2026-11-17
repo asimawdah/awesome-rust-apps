@@ -139,6 +139,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [LinkUnbound](https://github.com/rgdevment/LinkUnbound) - A browser picker for Windows and macOS that routes links to browser profiles based on site or app.
 
+- [Lokii](https://github.com/huangy7/lokii) - A native macOS file-search application designed for fast, system-wide local search.
+
 ## Productivity & Communication
 
 ## Graphics, Media & Games
