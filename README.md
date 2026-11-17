@@ -83,6 +83,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Nushell](https://github.com/nushell/nushell) - A modern shell with structured data, pipelines, and a consistent command-line experience.
 
+- [oha](https://github.com/hatoo/oha) - An HTTP load generator with a live terminal interface for visualizing request performance.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
