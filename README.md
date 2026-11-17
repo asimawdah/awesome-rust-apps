@@ -191,6 +191,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Hyperswitch](https://github.com/juspay/hyperswitch) - An open-source payments platform for orchestrating payment, payout, fraud, and reconciliation services.
 
+- [Kellnr](https://github.com/kellnr/kellnr) - A self-hosted private registry for Rust crates, with a web interface and package management.
+
 ## Runtimes, Documentation & Publishing
 
 ## Contributing
