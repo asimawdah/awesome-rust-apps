@@ -109,6 +109,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [Yazi](https://github.com/sxyazi/yazi) - A fast terminal file manager built around asynchronous I/O.
 
+- [Zellij](https://github.com/zellij-org/zellij) - A terminal workspace and multiplexer with panes, tabs, and built-in layouts.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
