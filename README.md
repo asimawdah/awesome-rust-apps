@@ -79,6 +79,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool for measuring and comparing command execution times.
 
+- [just](https://github.com/casey/just) - A handy command runner for project-specific recipes and automation.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
