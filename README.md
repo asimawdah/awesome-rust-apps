@@ -73,6 +73,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [fd](https://github.com/sharkdp/fd) - A simple, fast, and user-friendly command-line alternative to find.
 
+- [gping](https://github.com/orf/gping) - A ping utility that displays latency as a live graph in the terminal.
+
 ## Desktop & System Applications
 
 ## Productivity & Communication
