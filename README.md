@@ -189,6 +189,8 @@ A curated list of open-source applications built with **Rust**. This list focuse
 
 - [GreptimeDB](https://github.com/GreptimeTeam/greptimedb) - An observability database for storing and querying metrics, logs, and traces.
 
+- [Hyperswitch](https://github.com/juspay/hyperswitch) - An open-source payments platform for orchestrating payment, payout, fraud, and reconciliation services.
+
 ## Runtimes, Documentation & Publishing
 
 ## Contributing
